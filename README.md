@@ -2,13 +2,9 @@ This repoaitory contains all the reports submitted for the Business Data Managem
 
 
 The reports had to be submitted as the following:
-
 1.Proposal Report - 1st-5th of the starting month
-
 2.Mid-Term Report - 6th-10th of the next month
-
 3.Final Report - 11th-15th of the next month
-
 4.Presentation and Viva - After acceptance of Final Report in the same month
 
 
