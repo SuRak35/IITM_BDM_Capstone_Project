@@ -9,4 +9,4 @@ The reports had to be submitted as the following:
 
 4.Presentation and Viva - After acceptance of Final Report in the same month
 
-The rejected reports as well as the associated documents are provided in the repository. All the rports will be updated soon after submission.
+The rejected reports as well as the associated documents are provided in the repository. All the reports will be updated soon after submission.
