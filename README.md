@@ -14,3 +14,7 @@ The reports had to be submitted as the following:
 4.Presentation and Viva - After acceptance of Final Report in the same month
 
 The rejected reports as well as the associated documents are provided in the repository. All the reports will be updated soon after submission.
+
+<p align="center">
+  <img src="https://media.tenor.com/AyTv-0lbeO0AAAAj/check-mark-good.gif" >
+</p>
